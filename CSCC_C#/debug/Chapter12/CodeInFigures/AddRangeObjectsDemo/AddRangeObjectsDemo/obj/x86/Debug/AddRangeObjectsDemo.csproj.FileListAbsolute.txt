@@ -1,0 +1,18 @@
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\bin\Debug\AddRangeObjectsDemo.exe
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\bin\Debug\AddRangeObjectsDemo.pdb
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\AddRangeObjectsDemo.Form1.resources
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\AddRangeObjectsDemo.Properties.Resources.resources
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\AddRangeObjectsDemo.exe
+C:\C#\Chapter.12\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\AddRangeObjectsDemo.pdb
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\AddRangeObjectsDemo.exe
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\AddRangeObjectsDemo.pdb
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\bin\Debug\AddRangeObjectsDemo.exe
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\bin\Debug\AddRangeObjectsDemo.pdb
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\AddRangeObjectsDemo.Form1.resources
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\AddRangeObjectsDemo.Properties.Resources.resources
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter12\CodeInFigures\AddRangeObjectsDemo\AddRangeObjectsDemo\obj\x86\Debug\GenerateResource.write.1.tlog

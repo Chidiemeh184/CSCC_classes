@@ -1,0 +1,9 @@
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.exe
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.pdb
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\obj\x86\Debug\MenuStripDemo.Form1.resources
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\obj\x86\Debug\MenuStripDemo.Properties.Resources.resources
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\obj\x86\Debug\MenuStripDemo.exe
+C:\C#\Chapter.12\MenuStripDemo\MenuStripDemo\obj\x86\Debug\MenuStripDemo.pdb

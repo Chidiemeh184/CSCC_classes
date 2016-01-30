@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<style type="text/css">
+			#form{ 
+			     height: 265px;
+				 width: 500px;
+				 background-color: #FFF8EC;
+				 border: 1px solid #FFE4B6;}
+		</style>
+		<meta charset="utf-8"/>
+		<title>Red Sweatshirt</title>
+		<script type="text/javascript">
+			function inputFocus(i){
+				if(i.value==i.defaultValue){i.value=""; i.style.color="#808080";}
+				}
+			function inputBlur(i){
+				if(i.value==""){i.value=i.defaultValue; i.style.color="#808080";}
+				}
+		</script>
+	</head>
+	<body>
+		<div id="form">
+		<form>
+			<h1 style="margin-top: 10px; margin-left: 15px">Red Sweatshirt</h1>
+			<p style="margin-left: 15px">Size: <select name="sizes" size="1">
+				<option value="M">Medium</option>
+				<option value="s">small</option>
+				<option value="xl">XL</option>
+			</select></p>
+			<p>
+			<input style="margin-left: 15px" type="checkbox" checked="checked" name="Giftwrap" value="additionalgiftwrap"/>Gift wrap for additional $3<br>
+			</p>
+			<p style="margin-left: 15px">Additional Instructions</p>
+			<textarea style="margin-left: 15px" name="comments" maxlength="300" cols="28" rows="2" onfocus="inputFocus(this)" onblur="inputBlur(this)">Please leave on front porch and not at rear porch.</textarea>
+					<p>
+						<input style="margin-left: 15px" type="submit" value="Submit"/>
+						<input  style="margin-left: 15px" type="reset" value="Cancel"/>
+					</p>
+		</form>
+		
+		</div>
+		
+	</body>
+</html>
+

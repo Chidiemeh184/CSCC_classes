@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter10\Inheritance-Chapter10\Inheritance-Chapter10\bin\Debug\Inheritance-Chapter10.exe.config
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter10\Inheritance-Chapter10\Inheritance-Chapter10\obj\Debug\Inheritance-Chapter10.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter10\Inheritance-Chapter10\Inheritance-Chapter10\bin\Debug\Inheritance-Chapter10.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter10\Inheritance-Chapter10\Inheritance-Chapter10\bin\Debug\Inheritance-Chapter10.pdb
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter10\Inheritance-Chapter10\Inheritance-Chapter10\obj\Debug\Inheritance-Chapter10.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter10\Inheritance-Chapter10\Inheritance-Chapter10\obj\Debug\Inheritance-Chapter10.pdb

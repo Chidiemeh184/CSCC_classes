@@ -1,0 +1,9 @@
+C:\C#\Chapter.13\EventDemo\EventDemo\bin\Debug\EventDemo.exe
+C:\C#\Chapter.13\EventDemo\EventDemo\bin\Debug\EventDemo.pdb
+C:\C#\Chapter.13\EventDemo\EventDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\EventDemo\EventDemo\obj\x86\Debug\EventDemo.Form1.resources
+C:\C#\Chapter.13\EventDemo\EventDemo\obj\x86\Debug\EventDemo.Properties.Resources.resources
+C:\C#\Chapter.13\EventDemo\EventDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.13\EventDemo\EventDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.13\EventDemo\EventDemo\obj\x86\Debug\EventDemo.exe
+C:\C#\Chapter.13\EventDemo\EventDemo\obj\x86\Debug\EventDemo.pdb

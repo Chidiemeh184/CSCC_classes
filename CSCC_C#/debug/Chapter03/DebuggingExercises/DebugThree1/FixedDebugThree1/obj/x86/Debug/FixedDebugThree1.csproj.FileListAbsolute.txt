@@ -1,0 +1,13 @@
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\bin\Debug\FixedDebugThree1.exe
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\bin\Debug\FixedDebugThree1.pdb
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.Form1.resources
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.Properties.Resources.resources
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.exe
+C:\C#\Chapter.03\FixedDebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.pdb
+C:\C#\Chapter.03\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.exe
+C:\C#\Chapter.03\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.pdb
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.exe
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.pdb

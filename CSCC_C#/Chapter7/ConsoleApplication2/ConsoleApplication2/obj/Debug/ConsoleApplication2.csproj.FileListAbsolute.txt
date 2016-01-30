@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter7\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter7\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter7\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter7\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter7\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter7\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

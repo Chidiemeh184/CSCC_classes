@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Taxing Situation</title>
+<style>
+.blueText{ color: blue;}
+</style>
+
+ 
+</head>
+
+<body>
+
+<script>
+	var purchasePrice = 0;
+	purchasePrice = prompt('Please Enter the purchase price', '');
+	var salesTax = purchasePrice * 0.06;
+	var num = salesTax.toFixed(2);
+	//alert("Your sales tax is $" + num + ".");
+	
+	document.write('<p class = "blueText"><strong>Sales tax is $' + num + '</strong></p>');
+	
+</script>
+
+</body>
+</html>
+

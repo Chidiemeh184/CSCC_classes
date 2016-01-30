@@ -1,0 +1,183 @@
+
+body{
+	margin: 0px 100px 0px 100px;
+	background: white;
+	font-family: ProximaNova, "Helvetica Neue", Verdan, Arial, sans-serif;
+	width: 980px;
+	
+	color:#696969;
+	font-size: 17px;
+}
+
+
+header {
+	background: #A9A9A9;
+	padding: 10px 0 0 0;
+	height: 50px;
+}
+
+.logo {
+	display: block;
+	margin: 0.01px 5px 10px 1px;
+	float: left;
+}
+/*/////////////////////////////////////////////////////////   NAVIGATION   ///////////////////////////////////////////////////////////*/
+.nav-bar{
+	float: right;
+	list-style: none;
+	margin: 15px 15px;
+}
+
+.nav-bar li{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.nav-bar li a {
+	text-decoration: none;
+	color: #191919;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-family: "Helvetica Neue", Verdan, Arial, sans-serif;
+}
+
+.footer-nav{
+	text-align: center;
+	display: inline-block;
+	color: #191919;
+}
+
+.footer-nav a{
+	color: #191919;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#content{
+	background: #FFFFFF;
+}
+#main-wrapper{
+	max-width: 980px;
+	width: 980px;
+	background: white;
+	border: 1px solid #DCDCDC;
+}
+
+footer{
+	background: #696969;
+	height: 50px;
+	text-align: center;
+	width: 980px;
+	text-decoration: none;
+	font-size: 14px;
+	color: black;
+	clear: both;
+}
+
+
+
+.hero-box{
+	height: 250px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("http://i.imgur.com/71EUFvE.jpg?2");
+}
+
+
+.hero-title{
+	width: 800px;
+	padding: 10px 5px;
+	margin:0px;
+	text-align: center;
+	color: #ECECEC;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+	font-size: 38px;
+	text-shadow: #331F04 1px 1px 2px;
+}
+.ohzee{
+	text-decoration: none;
+	color: #191919;
+	font-size: 28px;
+	font-family: "Helvetica Neue", Verdan, Arial, sans-serif;
+	float: left;
+	margin: 9px 0.5px;
+}
+
+
+.flat-ui{
+
+}
+
+.columns{
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin: 5px 5px;
+	text-align: center;
+	font-size: 15px;
+}
+/*///////////////////////////////////////////////////    TABLES AND COLUMNS    /////////////////////////////////////////////*/
+.summary{
+	height: 400px;
+}
+.table-summary{
+	width: 980px;
+	height:300px;
+	text-align: center;
+}
+
+.company-summary{
+	width: 980px;
+	height: 230px;
+	text-align: center;
+}
+
+.content-word-box{
+	width: 800px;
+	margin: 0px 100px 0px 100px;
+	letter-spacing: 0.5px;
+	word-spacing: 2.4px;
+	font-size: 15px;
+	padding: 3px 0px 5px 0px;
+	display: block;
+}
+aside {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:400px;
+    width:150px;
+    float:left;
+    padding:5px;
+	margin: 0px;
+	clear: left;
+	font-size: 15px;
+	
+}
+
+#about-content{
+	width:820px;
+	height:460px;
+    float:right;
+	
+}
+
+.about-text{
+	font-size: 15px;
+	padding:5px;
+	height:650px;
+    width:300px;
+	margin: 20px 40px;
+	letter-spacing: 0.5px;
+	word-spacing: 2.4px;
+	display: block;
+}
+.summary{
+	height: 400px;
+}
+.table-summary{
+	width: 1020px;
+	height:300px;
+	text-align: center;
+	/*background: #FFE4E1;*/
+}

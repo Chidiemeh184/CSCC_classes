@@ -1,0 +1,6 @@
+start
+	MPG = 28
+	gallonsOfGas = 13.3
+	travelDistance = MPG * gallonsOfGas
+	output travelDistance
+stop

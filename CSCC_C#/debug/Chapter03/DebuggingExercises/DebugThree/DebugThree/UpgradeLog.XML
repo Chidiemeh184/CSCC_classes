@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DebugTree">
+</Property><Property Name="Solution File" Value="E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\DebugTree.sln">
+</Property><Property Name="User Options File" Value="E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\DebugTree.suo">
+</Property><Property Name="Date" Value="Monday, April 23, 2012">
+</Property><Property Name="Time" Value="15:44 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DebugTree.sln" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DebugTree.suo" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree.suo">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\DebugTree.csproj" Description="Project file successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\DebugTree.csproj">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Form1.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Form1.designer.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Program.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Program.cs">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Properties\Settings.settings" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Form1.resx" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\Properties\Resources.resx" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\Backup\DebugTree\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\DebugTree.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DebugTree" Source="DebugTree\DebugTree.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DebugTree.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DebugTree.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DebugTree" Source="DebugTree\DebugTree.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

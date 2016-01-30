@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="Sorting%20Arrays%20%5BC%23%5D_files/style.css" media="screen" title="Normal Style">
+<link rel="stylesheet" type="text/css" href="Sorting%20Arrays%20%5BC%23%5D_files/print.css" media="print" title="Print Style">
+<link rel="alternate" type="application/rss+xml" href="http://www.csharp-examples.net/rss.xml" title="C# Examples">
+<title>Sorting Arrays [C#]</title>
+</head>
+
+<body><div id="wrap">
+
+<a href="http://www.csharp-examples.net/"><img src="Sorting%20Arrays%20%5BC%23%5D_files/csharp-examples.png" alt="C# Examples" height="120" width="790"></a>
+
+<div id="avmenu">
+<h2 class="hide">Menu:</h2>
+<ul>
+<li><a href="http://www.csharp-examples.net/">Homepage</a></li>
+<li><a href="http://www.csharp-examples.net/examples/" rel="nofollow">All examples</a></li>
+<li><a href="http://www.csharp-examples.net/contact/" rel="nofollow">Contact me</a></li>
+</ul>
+
+<br>
+
+
+<script src="Sorting%20Arrays%20%5BC%23%5D_files/ca-pub-7755104735053360.js" type="text/javascript" async=""></script><script async="" src="Sorting%20Arrays%20%5BC%23%5D_files/adsbygoogle.js"></script>
+<!-- C# examples, 160x600 -->
+<ins data-adsbygoogle-status="done" class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-7755104735053360" data-ad-slot="5265595833"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px;background-color:transparent"><ins id="aswift_0_anchor" style="display:block;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px;background-color:transparent"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;" frameborder="0" height="600" width="160"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<div id="content">
+
+<h1>Sorting Arrays [C#]</h1>
+
+<p>This example shows how to sort arrays in C#. Array can be sorted using static
+method <strong><a href="http://msdn2.microsoft.com/en-us/library/system.array.sort.aspx" rel="nofollow">Array.Sort</a></strong> which internally use Quicksort
+algorithm.</p>
+
+<h2>Sorting array of primitive types</h2>
+
+<p>To sort array of primitive types such as <strong>int</strong>,
+<strong>double</strong> or <strong>string</strong> use method <a href="http://msdn2.microsoft.com/en-us/library/6tf1f0bc.aspx" rel="nofollow">Array.Sort(Array)</a> with the array as a paramater. The
+primitive types implements interface <a href="http://msdn2.microsoft.com/en-us/library/system.icomparable.aspx" rel="nofollow">IComparable</a>, which is internally used by the Sort method (it
+calls IComparable.Com­pareTo method). See example how to sort int&nbsp;array:</p>
+[C#]<br>
+
+<pre class="code"><span class="comments">// <strong>sort int array</strong></span>
+<span class="keyword">int</span>[] intArray = <span class="keyword">new int</span>[5] { 8, 10, 2, 6, 3 };
+<strong><span class="type">Array</span>.Sort</strong>(intArray);
+<span class="comments">// write array</span>
+<span class="keyword">foreach</span> (<span class="keyword">int</span> i <span class="keyword">in</span> intArray) <span class="type">Console</span>.Write(i + <span class="string">" "</span>);  <span class="comments">// output: 2 3 6 8 10</span>
+
+</pre>
+
+<p>or how to sort string array:</p>
+[C#]<br>
+
+<pre class="code"><span class="comments">// <strong>sort string array</strong></span>
+<span class="keyword">string</span>[] stringArray = <span class="keyword">new string</span>[5] { <span class="string">"X"</span>, <span class="string">"B"</span>, <span class="string">"Z"</span>, <span class="string">"Y"</span>, <span class="string">"A"</span> };
+<strong><span class="type">Array</span>.Sort</strong>(stringArray);
+<span class="comments">// write array</span>
+<span class="keyword">foreach</span> (<span class="keyword">string</span> str <span class="keyword">in</span> stringArray) <span class="type">Console</span>.Write(str + <span class="string">" "</span>); <span class="comments">// output: A B X Y Z</span>
+
+</pre>
+
+<h2>Sorting array of custom type using delegate</h2>
+
+<p>To sort your own types or to sort by more sophisticated rules, you can use
+<strong>delegate to anonymous method</strong>. The generic delegate <a href="http://msdn2.microsoft.com/en-us/library/tfakywbh.aspx" rel="nofollow">Comparison&lt;T&gt;</a> is declared as <code>public delegate int
+Comparison&lt;T&gt; (T x, T y)</code>. It points to a method that compares two
+objects of the same type. It should return less then 0&nbsp;when X &lt; Y, zero when
+X = Y and greater then 0&nbsp;when X &gt; Y. The method (to which the delegate
+points) can be also an anonymous method (written inline).</p>
+
+<p>Following example demonstrates how to <strong>sort an array of custom
+type</strong> using the delegate to anonynous comparison method. The custom type
+in this case is a <b>class User</b> with properties Name and&nbsp;Age.</p>
+[C#]<br>
+
+<pre class="code"><span class="comments">// array of custom type</span>
+<span class="type">User</span>[] users = <span class="keyword">new</span> <span class="type">User</span>[3] { <span class="keyword">new</span> <span class="type">User</span>(<span class="string">"Betty"</span>, 23),  <span class="comments">// name, age</span>
+                             <span class="keyword">new</span> <span class="type">User</span>(<span class="string">"Susan"</span>, 20),
+                             <span class="keyword">new</span> <span class="type">User</span>(<span class="string">"Lisa"</span>, 25) };
+
+</pre>
+ [C#]<br>
+
+<pre class="code"><span class="comments">// <strong>sort array by name</strong></span>
+<strong><span class="type">Array</span>.Sort</strong>(users, <span class="keyword"><b>delegate</b></span>(<span class="type">User</span> user1, <span class="type">User</span> user2) <b>{</b>
+                    <span class="keyword">return</span> user1.<b>Name</b>.CompareTo(user2.<b>Name</b>);
+                  <b>}</b>);
+<span class="comments">// write array (output: <b>Betty</b>23 <b>Lisa</b>25 <b>Susan</b>20)</span>
+<span class="keyword">foreach</span> (<span class="type">User</span> user <span class="keyword">in</span> users) <span class="type">Console</span>.Write(user.Name + user.Age + <span class="string">" "</span>);
+
+</pre>
+ [C#]<br>
+
+<pre class="code"><span class="comments">// <strong>sort array by age</strong></span>
+<strong><span class="type">Array</span>.Sort</strong>(users, <span class="keyword"><b>delegate</b></span>(<span class="type">User</span> user1, <span class="type">User</span> user2) <b>{</b>
+                    <span class="keyword">return</span> user1.<b>Age</b>.CompareTo(user2.<b>Age</b>); <span class="comments">// (user1.Age - user2.Age)</span>
+                  <b>}</b>);
+<span class="comments">// write array (output: Susan<b>20</b> Betty<b>23</b> Lisa<b>25</b>)</span>
+<span class="keyword">foreach</span> (<span class="type">User</span> user <span class="keyword">in</span> users) <span class="type">Console</span>.Write(user.Name + user.Age + <span class="string">" "</span>);
+
+</pre>
+
+<h2>Sorting array using IComparable</h2>
+
+<p>If you implement <a href="http://msdn2.microsoft.com/en-us/library/system.icomparable.aspx" rel="nofollow">IComparable</a> interface in your custom type, you can sort array
+easily like in the case of primitive types. The Sort method calls internally <a href="http://msdn2.microsoft.com/en-us/library/system.icomparable.compareto.aspx" rel="nofollow">IComparable.Com­pareTo</a> method.</p>
+[C#]<br>
+
+<pre class="code"><span class="comments">// custom type</span>
+<span class="keyword">public class</span> <span class="type">User</span> : <span class="type"><strong>IComparable</strong></span>
+{
+  <span class="comments">// ...</span>
+
+  <span class="comments">// implement IComparable interface</span>
+  <span class="keyword">public int</span> <strong>CompareTo</strong>(<span class="keyword">object</span> obj)
+  {
+    <span class="keyword">if</span> (obj <span class="keyword">is</span> <span class="type">User</span>) {
+      <span class="keyword">return this</span>.Name.CompareTo((obj <span class="keyword">as</span> <span class="type">User</span>).Name);  <span class="comments">// compare user names</span>
+    }
+    <span class="keyword">throw new</span> <span class="type">ArgumentException</span>("<span class="string">Object is not a User"</span>);
+  }
+}
+
+</pre>
+
+<p>Use it as you sorted the primitive types in the previous examples.</p>
+[C#]<br>
+
+<pre class="code"><span class="comments">// sort using IComparable implemented by User class</span>
+<strong><span class="type">Array</span>.Sort</strong>(users);  <span class="comments">// sort array of User objects</span>
+
+</pre>
+
+<br><p style="text-align:center;"><script async="" src="Sorting%20Arrays%20%5BC%23%5D_files/adsbygoogle.js"></script>
+<!-- C# examples, 336x280 -->
+<ins data-adsbygoogle-status="done" class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-7755104735053360" data-ad-slot="1393799434"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent"><ins id="aswift_1_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;" frameborder="0" height="280" width="336"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p><h2>See also</h2>
+
+<ul>
+	<li><a href="http://www.csharp-examples.net/readonly-collection/">[C#] Read-only wrapper for a
+	collection</a>&nbsp;– public property with read-only collection</li>
+</ul>
+
+<ul>
+	<li><a href="http://msdn2.microsoft.com/en-us/library/system.array.sort.aspx" rel="nofollow">Array.Sort</a>&nbsp;– MSDN&nbsp;– static method to sort array
+	(overload&nbsp;list)</li>
+
+	<li><a href="http://msdn2.microsoft.com/en-us/library/6tf1f0bc.aspx" rel="nofollow">Array.Sort(Arra­y)</a>&nbsp;– MSDN&nbsp;– sort using IComparable
+	interface (supported by int or string)</li>
+
+	<li><a href="http://msdn2.microsoft.com/en-us/library/system.icomparable.aspx" rel="nofollow">IComparable</a>&nbsp;– MSDN&nbsp;– interface implemented by objects
+	in array (used by Sort method)</li>
+
+	<li><a href="http://msdn2.microsoft.com/en-us/library/cxt053xf.aspx" rel="nofollow">Array.Sort(Array, Comparison)</a>&nbsp;– MSDN&nbsp;– sort using
+	generic Comparison delegate</li>
+
+	<li><a href="http://msdn2.microsoft.com/en-us/library/tfakywbh.aspx" rel="nofollow">Comparison&lt;T&gt;</a>&nbsp;– MSDN&nbsp;– delegate to method that
+	compares two objects</li>
+</ul>
+
+<p class="author">By <a href="http://www.csharp-examples.net/jan-slama/">Jan Slama</a>, 2007</p>
+
+<!-- by Texy2! --></div>
+
+<div id="footer">
+Copyright © 2010 Jan Slama. </div>
+
+</div>
+
+<script src="Sorting%20Arrays%20%5BC%23%5D_files/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2661407-1";
+urchinTracker();
+</script>
+
+</body></html>

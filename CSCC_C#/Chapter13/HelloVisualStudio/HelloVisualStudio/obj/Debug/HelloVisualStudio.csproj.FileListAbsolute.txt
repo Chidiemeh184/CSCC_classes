@@ -1,0 +1,9 @@
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\bin\Debug\HelloVisualStudio.exe.config
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\bin\Debug\HelloVisualStudio.exe
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\bin\Debug\HelloVisualStudio.pdb
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\obj\Debug\HelloVisualStudio.csprojResolveAssemblyReference.cache
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\obj\Debug\HelloVisualStudio.HelloName.resources
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\obj\Debug\HelloVisualStudio.Properties.Resources.resources
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\obj\Debug\HelloVisualStudio.csproj.GenerateResource.Cache
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\obj\Debug\HelloVisualStudio.exe
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter13\HelloVisualStudio\HelloVisualStudio\obj\Debug\HelloVisualStudio.pdb

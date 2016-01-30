@@ -1,0 +1,95 @@
+shop icon --- <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" type ="text/css" href="style2.css">
+		<meta charset="utf-8"/>
+		<title>OHzee Home</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	
+	
+	<body>
+		<div id="main-wrapper" class="clearfix">
+			<header>
+				<nav>
+					<a href="index.html" title="OHzeelogo"><img src="ohzee-icon.png" alt="Company logo" width="100" height="100" class="logo"/><h1 class="ohzee">OHzee</h1></a>
+					<ul class="nav-bar">
+						<li><a href="howItWorks.html" target="_blank">How it works</a></li>
+						<li><a href="signUp.html" target="_blank">Sign Up</a></li>
+						<li><a href="deliverForUs.html" target="_blank">Deliver for us</a></li>
+						<li><a href="about.html" target="_blank">About</a></li>
+						<li><a href="#">Login</a></li>
+					</ul>
+				</nav>
+			</header>
+			
+			
+			<section class="hero-box">
+				<div><h1 class="hero-title">From stores...to you</h1></div>
+				
+				<div class="search-box">
+					<input type="text" placeholder="Enter your street address">
+					<input type="submit" value="Search"/>
+				</div>
+			</section>
+			
+			<section class="summary">
+				<div class="colums">
+					<h2>Shop with ease</h2>
+					<img>
+					<p></p>
+				<div>
+			</section>
+			<footer>
+				<div class="social">
+				</div>
+				<small> Copyright OHzee. All rights reserved.</small>
+			</footer>
+		</div>
+	</body>
+</html>
+
+
+
+				<div class="colums">
+					<h2></h2>
+					<img>
+					<p class="column-text"></p>
+				</div>
+				
+				
+				
+				
+				
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from 
+<a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>  is licensed by 
+<a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
+
+
+			<section class="summary" style="width: 1020px">
+				<table class="tables">
+					<tr class="rows">
+						<td class="columns">
+							<h2>Stores only Local to you</h2>
+						</td>
+						<td class="columns">
+							<h2>Shop with ease</h2>
+						</td>
+					</tr>
+					<tr class="rows">
+						<td class="columns"><img class="flat-ui" src="email.png" alt="Company logo" width="50" height="50"/></td>
+						<td class="columns">
+							<img class="flat-ui" src="email.png" alt="Company logo" width="50" height="50"/>
+						</td>
+					</tr>
+					
+					<tr class="rows">
+						<td class="columns"><p>The stores you choose are those close to you. So you know you always get the same quality just as you would normally. You can customize the stores, and select from our growing list of the best store near you.</p></td>
+						<td class="columns"><p>Hello, we are OHzee, your new premium food and local store delivery service. We know how it feels when you have to wait in line for your favorite meal on a busy day, or spending the whole day at a grocery store. Well, we can take care of that.</p></td>
+					</tr>
+				</table>
+			</section>
+			<div class="clearfix"></div>
+			

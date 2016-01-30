@@ -1,0 +1,9 @@
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\bin\Debug\OneButtonTwoEvents.exe
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\bin\Debug\OneButtonTwoEvents.pdb
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\obj\x86\Debug\OneButtonTwoEvents.Form1.resources
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\obj\x86\Debug\OneButtonTwoEvents.Properties.Resources.resources
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\obj\x86\Debug\OneButtonTwoEvents.exe
+C:\C#\Chapter.13\OneButtonTwoEvents\OneButtonTwoEvents\obj\x86\Debug\OneButtonTwoEvents.pdb

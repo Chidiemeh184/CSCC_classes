@@ -1,0 +1,15 @@
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\DebugTree\obj\Debug\ResolveAssemblyReference.cache
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\DebugTree\obj\Debug\DebugThree.Form1.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\DebugTree\obj\Debug\DebugTree.Properties.Resources.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\DebugTree\obj\Debug\ResGen.read.1.tlog
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\DebugTree\obj\Debug\ResGen.write.1.tlog
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugTree\DebugTree\obj\Debug\DebugThree.Form2.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\ResolveAssemblyReference.cache
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.Form1.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\DebugTree.Properties.Resources.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\ResGen.read.1.tlog
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\ResGen.write.1.tlog
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\bin\Debug\DebugTree.exe
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\bin\Debug\DebugTree.pdb
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\DebugTree.exe
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\DebugTree.pdb

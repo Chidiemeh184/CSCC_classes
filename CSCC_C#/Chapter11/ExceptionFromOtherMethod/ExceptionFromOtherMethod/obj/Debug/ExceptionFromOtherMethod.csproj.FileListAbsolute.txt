@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\ExceptionFromOtherMethod\ExceptionFromOtherMethod\bin\Debug\ExceptionFromOtherMethod.exe.config
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\ExceptionFromOtherMethod\ExceptionFromOtherMethod\bin\Debug\ExceptionFromOtherMethod.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\ExceptionFromOtherMethod\ExceptionFromOtherMethod\bin\Debug\ExceptionFromOtherMethod.pdb
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\ExceptionFromOtherMethod\ExceptionFromOtherMethod\obj\Debug\ExceptionFromOtherMethod.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\ExceptionFromOtherMethod\ExceptionFromOtherMethod\obj\Debug\ExceptionFromOtherMethod.pdb
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\ExceptionFromOtherMethod\ExceptionFromOtherMethod\obj\Debug\ExceptionFromOtherMethod.csprojResolveAssemblyReference.cache

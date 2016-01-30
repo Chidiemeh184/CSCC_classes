@@ -1,0 +1,9 @@
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\bin\Debug\DateTimePickerDemo.exe
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\bin\Debug\DateTimePickerDemo.pdb
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\obj\x86\Debug\DateTimePickerDemo.Form1.resources
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\obj\x86\Debug\DateTimePickerDemo.Properties.Resources.resources
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\obj\x86\Debug\DateTimePickerDemo.exe
+C:\C#\Chapter.12\DateTimePickerDemo\DateTimePickerDemo\obj\x86\Debug\DateTimePickerDemo.pdb

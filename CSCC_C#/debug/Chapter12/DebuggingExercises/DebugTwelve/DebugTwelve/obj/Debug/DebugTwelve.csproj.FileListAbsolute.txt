@@ -1,0 +1,24 @@
+C:\CIT 279 (C#)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\bin\Debug\DebugTwelve.exe
+C:\CIT 279 (C#)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\bin\Debug\DebugTwelve.pdb
+C:\CIT 279 (C#)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\ResolveAssemblyReference.cache
+C:\CIT 279 (C#)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.Properties.Resources.resources
+C:\CIT 279 (C#)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.csproj.GenerateResource.Cache
+C:\CIT 279 (C#)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.exe
+C:\CIT 279 (C#)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.pdb
+C:\CIT 279 (C#)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\FixedDebugEleven4.Form1.resources
+C:\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.exe
+C:\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.pdb
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.exe
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.pdb
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\ResolveAssemblyReference.cache
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\FixedDebugEleven4.Form1.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.Properties.Resources.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\ResGen.read.1.tlog
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve\obj\Debug\ResGen.write.1.tlog
+C:\ACTIVITY\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.exe
+C:\ACTIVITY\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.pdb
+C:\ACTIVITY\DebugTwelve\DebugTwelve\obj\Debug\ResolveAssemblyReference.cache
+C:\ACTIVITY\DebugTwelve\DebugTwelve\obj\Debug\FixedDebugEleven4.Form1.resources
+C:\ACTIVITY\DebugTwelve\DebugTwelve\obj\Debug\DebugTwelve.Properties.Resources.resources
+C:\ACTIVITY\DebugTwelve\DebugTwelve\obj\Debug\ResGen.read.1.tlog
+C:\ACTIVITY\DebugTwelve\DebugTwelve\obj\Debug\ResGen.write.1.tlog

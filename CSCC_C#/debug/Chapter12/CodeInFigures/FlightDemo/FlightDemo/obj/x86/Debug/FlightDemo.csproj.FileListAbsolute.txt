@@ -1,0 +1,9 @@
+C:\C#\Chapter.12\FlightDemo\FlightDemo\bin\Debug\FlightDemo.exe
+C:\C#\Chapter.12\FlightDemo\FlightDemo\bin\Debug\FlightDemo.pdb
+C:\C#\Chapter.12\FlightDemo\FlightDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.12\FlightDemo\FlightDemo\obj\x86\Debug\FlightDemo.Form1.resources
+C:\C#\Chapter.12\FlightDemo\FlightDemo\obj\x86\Debug\FlightDemo.Properties.Resources.resources
+C:\C#\Chapter.12\FlightDemo\FlightDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.12\FlightDemo\FlightDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.12\FlightDemo\FlightDemo\obj\x86\Debug\FlightDemo.exe
+C:\C#\Chapter.12\FlightDemo\FlightDemo\obj\x86\Debug\FlightDemo.pdb

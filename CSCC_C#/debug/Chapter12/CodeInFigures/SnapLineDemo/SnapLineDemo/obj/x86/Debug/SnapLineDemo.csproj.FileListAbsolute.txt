@@ -1,0 +1,9 @@
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\bin\Debug\SnapLineDemo.exe
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\bin\Debug\SnapLineDemo.pdb
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\obj\x86\Debug\SnapLineDemo.Form1.resources
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\obj\x86\Debug\SnapLineDemo.Properties.Resources.resources
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\obj\x86\Debug\SnapLineDemo.exe
+C:\C#\Chapter.12\SnapLineDemo\SnapLineDemo\obj\x86\Debug\SnapLineDemo.pdb

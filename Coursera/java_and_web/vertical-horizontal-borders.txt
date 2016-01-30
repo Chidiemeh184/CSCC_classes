@@ -1,0 +1,65 @@
+// border frame using a function, refactored
+function setBlack(pixel){
+    pixel.setRed(0);
+    pixel.setGreen(0);
+    pixel.setBlue(0);
+    return pixel;
+}
+
+/////////////////////   PIXEL ON EDGE   //////////////////////////////
+
+function pixelOnEdge(pixel,image, borderWidth){
+    var x = pixel.getX();
+    var y = pixel.getY();
+    if (x < borderWidth) return true;
+    if (y < borderWidth) return true;
+    if (x >= image.getWidth() - borderWidth) return true;
+    if (y >= image.getHeight() - borderWidth) return true;
+    return false;
+}
+
+
+
+///////////////////   PIXEL ON VERTICAL EDGE  //////////////////////////////
+
+function pixelOnVerticalEdge(pixel,image, borderWidth){
+    var x = pixel.getX();
+    if (x < borderWidth) return true;
+    if (x >= image.getWidth() - borderWidth) return true;
+    return false;
+}
+
+///////////////////   PIXEL ON HORIZONTAL EDGE  //////////////////////////////
+
+function pixelOnHorizontalEdge(pixel,image, borderHeight){
+    var y = pixel.getY();
+    if (y < borderHeight) return true;
+    if (y >= image.getHeight() - borderHeight) return true;
+    return false;
+}
+
+
+///////////////////   PIXEL ON VERTICAL AND HORIZONTAL  //////////////////////////////
+
+function pixelVerticalAndHorizontalEdge(pixel,image, v, h){
+
+   if (pixelOnVerticalEdge(pixel,image, v)) return true;
+   
+   if (pixelOnHorizontalEdge(pixel,image, h)) return true;
+
+    return false;
+}
+
+
+////////////////////    Testing   //////////////////////////////
+
+var image = new SimpleImage("lion.jpg");
+
+for (var pixel of image.values()) {
+    
+   if (pixelVerticalAndHorizontalEdge(pixel,image, 10, 25)){
+       pixel = setBlack(pixel);
+   }
+   
+}
+print(image);

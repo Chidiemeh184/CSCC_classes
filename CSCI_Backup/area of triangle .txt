@@ -1,0 +1,7 @@
+start
+	set height = 25
+	set base = 45
+	area = 0.5 * base * height
+	output "The area of the triangle is " &
+		area &" inches squared"
+stop

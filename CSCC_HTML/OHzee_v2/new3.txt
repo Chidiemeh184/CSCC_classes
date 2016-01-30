@@ -1,0 +1,70 @@
+<div class="columns">
+					<h2>Shop with ease</h2>
+					<img class="flat-ui" src="email.png" alt="Company logo" width="50" height="50"/>
+					<p class="column-text">Hello, we are OHzee, your new premium food and local store delivery service. We know how it feels when you have to wait in line for your favorite meal on a busy day, or spending the whole day at a grocery store. Well, we can take care of that.</p>
+				</div>
+				<div class="columns">
+					<h2>Stores only Local to you</h2>
+					<img class="flat-ui" src="email.png" alt="Company logo" width="50" height="50"/>
+					<p class="column-text">The stores you choose are those close to you. So you know you always get the same quality just as you would normally. You can customize the stores, and select from our growing list of the best store near you.</p>
+				</div>
+				<div class="columns">
+					<h2>Ready in less than an hour</h2>
+					<img class="flat-ui" src="email.png" alt="Company logo" width="50" height="50"/>
+					<p class="column-text">Because we know that time expensive, we have carefully designed to way to move local goods around your area, so we get your orders delivered to you under one hour. </p>
+				</div>
+				
+				
+				
+				
+				
+				
+				
+				
+						<table>
+							<tr>
+								<td></td>
+							</tr>
+						</table>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				able class="table-summary">
+					<tr id ="features" style="height: 200px">
+						<th>Shop with ease</th>
+						<th>Stores only local to you</th>
+						<th>Ready in less than an hour</th>
+					</tr>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				
+				
+				.clearfix:after{
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+.clearfix{display: inline-block;}
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}

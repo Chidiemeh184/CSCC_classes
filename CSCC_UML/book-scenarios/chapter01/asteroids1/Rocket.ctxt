@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rocket()
+comment0.text=\r\n\ Initialise\ this\ rocket.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Do\ what\ a\ rocket's\ gotta\ do.\ (Which\ is\:\ mostly\ flying\ about,\ and\ turning,\r\n\ accelerating\ and\ shooting\ when\ the\ right\ keys\ are\ pressed.)\r\n
+comment2.params=
+comment2.target=int\ getShotsFired()
+comment2.text=\r\n\ Return\ the\ number\ of\ shots\ fired\ from\ this\ rocket.\r\n
+comment3.params=reloadTime
+comment3.target=void\ setGunReloadTime(int)
+comment3.text=\r\n\ Set\ the\ time\ needed\ for\ re-loading\ the\ rocket's\ gun.\ The\ shorter\ this\ time\ is,\r\n\ the\ faster\ the\ rocket\ can\ fire.\ The\ (initial)\ standard\ time\ is\ 20.\r\n
+comment4.params=
+comment4.target=void\ checkCollision()
+comment4.text=\r\n\ Check\ whether\ we\ are\ colliding\ with\ an\ asteroid.\r\n
+comment5.params=
+comment5.target=void\ checkKeys()
+comment5.text=\r\n\ Check\ whether\ there\ are\ any\ key\ pressed\ and\ react\ to\ them.\r\n
+comment6.params=boosterOn
+comment6.target=void\ ignite(boolean)
+comment6.text=\r\n\ Should\ the\ rocket\ be\ ignited?\r\n
+comment7.params=
+comment7.target=void\ fire()
+comment7.text=\r\n\ Fire\ a\ bullet\ if\ the\ gun\ is\ ready.\r\n
+numComments=8

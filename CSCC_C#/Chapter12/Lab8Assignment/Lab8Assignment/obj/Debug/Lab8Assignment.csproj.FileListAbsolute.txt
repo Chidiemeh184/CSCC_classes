@@ -1,0 +1,12 @@
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\bin\Debug\Lab8Assignment.exe.config
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\bin\Debug\Lab8Assignment.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\bin\Debug\Lab8Assignment.pdb
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\obj\Debug\Lab8Assignment.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\obj\Debug\Lab8Assignment.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\obj\Debug\Lab8Assignment.pdb
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\bin\Debug\Lab8Assignment.exe.config
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\obj\Debug\Lab8Assignment.exe
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\obj\Debug\Lab8Assignment.pdb
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\obj\Debug\Lab8Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\bin\Debug\Lab8Assignment.exe
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\Chapter12\Lab8Assignment\Lab8Assignment\bin\Debug\Lab8Assignment.pdb

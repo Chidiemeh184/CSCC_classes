@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\Exception-Handling-Chapter11\Exception-Handling-Chapter11\bin\Debug\Exception-Handling-Chapter11.exe.config
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\Exception-Handling-Chapter11\Exception-Handling-Chapter11\bin\Debug\Exception-Handling-Chapter11.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\Exception-Handling-Chapter11\Exception-Handling-Chapter11\bin\Debug\Exception-Handling-Chapter11.pdb
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\Exception-Handling-Chapter11\Exception-Handling-Chapter11\obj\Debug\Exception-Handling-Chapter11.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\Exception-Handling-Chapter11\Exception-Handling-Chapter11\obj\Debug\Exception-Handling-Chapter11.exe
+C:\Users\jason\Documents\COLUMBUS_STATE\CSCC_C#\Chapter11\Exception-Handling-Chapter11\Exception-Handling-Chapter11\obj\Debug\Exception-Handling-Chapter11.pdb

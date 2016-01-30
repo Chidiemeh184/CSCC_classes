@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" type ="text/css" href="css/style2mobile.css">
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>OHzee Home</title>
+	</head>
+	
+	
+	<body>
+		<div id="main-wrapper">
+			<!--////////////////////////////////////////// COMPANY LOGO AND NAVIGATION BAR ///////////////////////////////////////-->
+			<header>
+				<nav ><!--/Logo icon downloaded and saved from my computer/-->
+					<a href="home.html" title="OHzeelogo"><img src="images/ohzee-icon.png" alt="Company logo" title="OHzee Home"  class="logo"/><h1 class="ohzee">OHzee</h1></a>
+					<!--/source of OHzeelogo : http://www.flaticon.com/packs/ /--> 
+					
+				</nav>
+			</header>
+			
+			
+			<div>
+				<nav>
+					<ul class="nav-bar">
+						<li><a href="howItWorks.html" >How it works</a></li>
+						<li><a href="signUp.html" >Sign Up</a></li>
+						<li><a href="cities.html">Cities</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="#">Login</a></li>
+					</ul>
+				</nav>
+			</div>
+	
+			
+			<img src="images/home-banner3.jpg" alt="home banner" title="Start using OHzee"/>
+			
+		</div>
+	</body>
+	<footer>
+		<p class="footer-nav"><a href="mailto:cemeh@student.cscc.edu">Contact Us</a></p>	
+	</footer>	
+</html>

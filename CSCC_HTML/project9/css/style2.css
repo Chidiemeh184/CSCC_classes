@@ -1,0 +1,346 @@
+
+body{
+	margin: 0px 100px 0px 100px;
+	background: white;
+	font-family: ProximaNova, "Helvetica Neue", Verdan, Arial, sans-serif;
+	width: 980px;	
+	color:#696969;
+	font-size: 17px;
+}
+
+
+header {
+	background: #A9A9A9;
+	padding: 10px 0 0 0;
+	height: 50px;
+	background-image: linear-gradient(to top, #5F5F5F, #949494);
+}
+
+.logo {
+	display: block;
+	margin: 0.01px 5px 10px 1px;
+	float: left;
+	height: 50px;
+	width: 50px;
+}
+/*/////////////////////////////////////////////////////////   NAVIGATION   ///////////////////////////////////////////////////////////*/
+.nav-bar{
+	float: right;
+	list-style: none;
+	margin: 15px 15px;
+}
+
+.nav-bar li{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.nav-bar li a {
+	text-decoration: none;
+	color: #191919;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-family: "Helvetica Neue", Verdan, Arial, sans-serif;
+}
+
+.footer-nav{
+	text-align: center;
+	display: inline-block;
+	color: #191919;
+}
+
+.footer-nav a{
+	color: #191919;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#content{
+	background: #FFFFFF;
+}
+#main-wrapper{
+	max-width: 980px;
+	width: 980px;
+	background: white;
+	border: 1px solid #DCDCDC;
+}
+
+.company-summary2{
+	height: 2645px;
+	width: 980px;
+	text-align: center;
+	background-image: linear-gradient(to top, #F4F4F4, #F8F8F8, #FBFBFB, #FFFFFF);
+}
+footer{
+	background: #696969;
+	height: 50px;
+	text-align: center;
+	width: 980px;
+	text-decoration: none;
+	font-size: 14px;
+	color: black;
+	clear: both;
+	background-image: linear-gradient(to top, #4D4D4D, #828282);
+}
+
+/*///////////////////////////////////////////////////    Hero Images    /////////////////////////////////////////////*/
+.hero-box{
+	height: 350px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/home-hero-image.jpg");
+}
+
+.about-hero-box{
+	height: 400px;
+	background-size: cover;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/about-hero-image2.jpg");
+}
+
+.how-it-works-box{
+	height: 400px;
+	background-size: cover;
+	background-image: linear-gradient(rgba(0, 0, 10, 0.2), rgba(0, 0, 0, 0.4)), url("../images/how.jpg");
+}
+
+.sign-up-hero-box{
+	height: 400px;
+	background-size: cover;
+	background-image: linear-gradient(rgba(0, 0, 10, 0.2), rgba(0, 0, 0, 0.4)), url("../images/sign-up3.jpg");
+}
+.cities-box{
+	height: 450px;
+	background-size: cover;
+	background-image: linear-gradient(rgba(0, 0, 10, 0.2), rgba(0, 0, 0, 0.4)), url("../images/cities.jpg");
+}
+.sign-up-box{
+	background-image: linear-gradient(to top, #F4F4F4, #F8F8F8, #FBFBFB, #FFFFFF);
+	text-align: center;
+	height: 600px;
+	width: 980px;
+}
+.how-it-works-text{
+	text-align: center;
+}
+
+.how-intro{
+	padding: 10px 0px 8px 0px;
+	width: 980px;
+	text-align: center;
+}
+
+
+.hero-title{
+	width: 800px;
+	padding: 10px 5px;
+	margin:0px;
+	text-align: center;
+	color: #ECECEC;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+	font-size: 38px;
+	text-shadow: #331F04 1px 1px 2px;
+}
+.ohzee{
+	text-decoration: none;
+	color: #191919;
+	font-size: 28px;
+	font-family: "Helvetica Neue", Verdan, Arial, sans-serif;
+	float: left;
+	margin: 9px 0.5px;
+}
+
+
+
+.columns{
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin: 5px 5px;
+	text-align: center;
+	font-size: 15px;
+}
+/*///////////////////////////////////////////////////    TABLES AND COLUMNS    /////////////////////////////////////////////*/
+.summary{
+	height: 400px;
+}
+.table-summary{
+	width: 980px;
+	height:300px;
+	text-align: center;
+	background-image: linear-gradient(to top, #F4F4F4, #F8F8F8, #FBFBFB, #FFFFFF);
+}
+
+.company-summary{
+	width: 980px;
+	height: 260px;
+	text-align: center;
+	background-image: linear-gradient(to top, #F4F4F4, #F8F8F8, #FBFBFB, #FFFFFF);
+}
+
+.content-word-box{
+	width: 800px;
+	margin: 0px 100px 0px 100px;
+	letter-spacing: 0.5px;
+	word-spacing: 2.4px;
+	font-size: 15px;
+	padding: 3px 0px 5px 0px;
+	display: block;
+	text-align:center;
+}
+aside {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:460px;
+    width:150px;
+    float:left;
+    padding:5px;
+	clear: left;
+	font-size: 15px;
+	
+}
+
+#ab{
+	float:left;
+	height:250px;
+    width:370px;
+    padding:5px;
+	margin: 100px 15px 0px 5px;
+}
+#about-content{
+	width:390px;
+	height:400px;
+    float:left;
+	margin: 70px 0px 0px 0px;
+}
+
+#about-nav-text{
+	padding: 60px 10px 0px 3px;
+	margin-left: 10px ;
+}
+
+#features{
+	height: 80px;
+}
+
+#paragraph-about-text{
+	margin-left: 10px;
+}
+
+#street-address{
+	text-align:center;
+}
+
+.overview{
+	margin-left: 50px;
+}
+
+.about-box{
+	background-image: linear-gradient(to top, #F4F4F4, #F8F8F8, #FBFBFB, #FFFFFF);
+	
+}
+
+.about-text{
+	font-size: 15px;
+	padding:5px;
+	height:400px;
+    width:300px;
+	margin: 20px 40px;
+	letter-spacing: 0.5px;
+	word-spacing: 2.4px;
+	display: block;
+}
+.summary{
+	height: 400px;
+}
+.table-summary{
+	width: 980px;
+	text-align: center;
+	/*background: #FFE4E1;*/
+}
+
+#city-content{
+	background-image: linear-gradient(to top, #F4F4F4, #F8F8F8, #FBFBFB, #FFFFFF);
+	text-align:center;
+	width: 980px;
+	height: 700px;
+}
+.box1{
+	height: 600px;
+	width: 300px;
+	float: left;
+	margin: 0px 12px 0 13px;
+	background-image: linear-gradient(to top, #F4F4F4, #F8F8F8, #FBFBFB, #FFFFFF);
+}
+
+.city-message{
+	height: 100px;
+	width: 300px;
+	margin-left: 330px;	
+	
+}
+
+.city-list li{
+	text-decoration: none;
+	list-style: none;
+	padding: 4px 7px;
+}
+
+#signUpForm{
+	width: 300px;
+	height: 460px;
+	margin-left: 330px;
+	background-color: white;
+	font-size: 13px;
+	border: 1px solid #D9D9D9;
+}
+#signUpIcon{
+	margin-top: 10px;
+}
+
+fieldset{
+	border:none;
+	text-align: left;
+}
+
+.fieldset1{
+	width: 220px;
+	float: right;
+	clear: left;
+}
+
+.boxAnwer1{
+	margin-right: 5px;
+	float: left;
+}
+
+#required{
+	font-size: 10px;
+	float: left;
+	margin: 0px 0px 5px 5px;
+	color: #FF8E69;
+}
+
+.list-of-sites{
+	width: 650px;
+}
+.someSites{
+	height: 440px;
+}
+
+
+
+#down-arrow{
+	background-color: 3#ffb280;
+	border-radius: 23px;
+	height: 50px;
+	width: 50px;
+}
+
+
+
+
+
+
+
+

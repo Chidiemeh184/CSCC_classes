@@ -1,0 +1,34 @@
+
+var fgImage = new SimpleImage("mario.png");
+
+function swapRedGreen(pixel) {
+      
+    if ((pixel.getGreen() > pixel.getRed() + pixel.getBlue()) && pixel.getGreen() > 240 )  {
+        
+        pixel.setRed(255);
+        pixel.setGreen(0);
+    }
+    
+   else if ((pixel.getRed() > pixel.getGreen() + pixel.getBlue()) && pixel.getRed() > 240) {
+       pixel.setGreen(255);
+       pixel.setRed(0);
+   } 
+   
+   return pixel;
+}
+
+
+function moreRed(px, num) {
+    
+    if (px.getRed() <= 255) {
+        pixel.setRed(pixel.getRed() + num);
+    }
+}
+
+for (var pixel of fgImage.values()) {
+
+    moreRed(pixel, 255);
+    
+}
+
+print(fgImage);

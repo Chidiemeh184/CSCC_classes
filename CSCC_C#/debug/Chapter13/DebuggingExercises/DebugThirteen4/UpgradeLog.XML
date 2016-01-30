@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FixedDebugTwelve4">
+</Property><Property Name="Solution File" Value="C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4.sln">
+</Property><Property Name="User Options File" Value="C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4.suo">
+</Property><Property Name="Date" Value="Saturday, December 01, 2007">
+</Property><Property Name="Time" Value="14:20 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FixedDebugTwelve4.sln" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FixedDebugTwelve4.suo" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4.suo">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\FixedDebugTwelve4.csproj" Description="Project file successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\FixedDebugTwelve4.csproj">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Form1.cs" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Form1.cs">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Form1.Designer.cs" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Program.cs" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Program.cs">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Properties\Settings.settings" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Form1.resx" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Form1.resx">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\Properties\Resources.resx" Description="File successfully backed up as C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\Backup\FixedDebugTwelve4\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\FixedDebugTwelve4.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\FixedDebugTwelve4.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FixedDebugTwelve4.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FixedDebugTwelve4.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FixedDebugTwelve4" Source="FixedDebugTwelve4\FixedDebugTwelve4.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

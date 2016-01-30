@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DebugTwelve">
+</Property><Property Name="Solution File" Value="E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve.sln">
+</Property><Property Name="User Options File" Value="E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\DebugTwelve.suo">
+</Property><Property Name="Date" Value="Wednesday, May 02, 2012">
+</Property><Property Name="Time" Value="13:56 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DebugTwelve.sln" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DebugTwelve.suo" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve.suo">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\DebugTwelve.csproj" Description="Project file successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\DebugTwelve.csproj">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Form1.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Form1.designer.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Program.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Program.cs">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Properties\Settings.settings" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Form1.resx" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\Properties\Resources.resx" Description="File successfully backed up as E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab4\Debug12\DebugTwelve\Backup\DebugTwelve\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\DebugTwelve.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DebugTwelve" Source="DebugTwelve\DebugTwelve.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DebugTwelve.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DebugTwelve.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DebugTwelve" Source="DebugTwelve\DebugTwelve.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

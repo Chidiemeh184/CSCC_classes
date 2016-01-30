@@ -1,0 +1,17 @@
+{
+  "S:\\JavaWorkspace\\UCSDUnfoldingMaps\\lib\\core.jar": {
+    "location": "S:\\JavaWorkspace\\UCSDUnfoldingMaps\\lib\\core.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027S:\\JavaWorkspace\\UCSDUnfoldingMaps\\lib\\core.jar\u0027. Neither fingerprint \u00274a90e563b4d39e637997adabac06395d4025f83f\u0027 nor symbolic name \u0027core\u0027 are known."
+  },
+  "C:\\Program Files\\Java\\jre1.8.0_60\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_60\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "S:\\JavaWorkspace\\UCSDUnfoldingMaps\\lib\\unfolding.0.9.7-uscd.jar": {
+    "location": "S:\\JavaWorkspace\\UCSDUnfoldingMaps\\lib\\unfolding.0.9.7-uscd.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027S:\\JavaWorkspace\\UCSDUnfoldingMaps\\lib\\unfolding.0.9.7-uscd.jar\u0027. Neither fingerprint \u0027403865818933a1fce981e63ca356ac8fb88207ad\u0027 nor symbolic name \u0027unfolding.0.9.7-uscd\u0027 are known."
+  }
+}

@@ -1,0 +1,9 @@
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\bin\Debug\FormWithLinkLabels.exe
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\bin\Debug\FormWithLinkLabels.pdb
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\obj\x86\Debug\FormWithLinkLabels.Form1.resources
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\obj\x86\Debug\FormWithLinkLabels.Properties.Resources.resources
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\obj\x86\Debug\FormWithLinkLabels.exe
+C:\C#\Chapter.12\FormWithLinkLabels\FormWithLinkLabels\obj\x86\Debug\FormWithLinkLabels.pdb

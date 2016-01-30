@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" type ="text/css" href="css/style2.css">
+		<meta charset="utf-8"/>
+		<title>Sign Up</title>
+		
+		<meta name="description" content="OHzee, a premier websites that lets you order food, drinks from restuarants and stores close to you. You can choose from a list of couriers in your location so that your delivery arrives in no time.">
+	</head>
+	
+	
+	<body>
+		<div id="main-wrapper">
+			<!--////////////////////////////////////////// COMPANY LOGO AND NAVIGATION BAR ///////////////////////////////////////-->
+			<header>
+				<nav><!--/Logo icon downloaded and saved from my computer/-->
+					<a href="home.html" title="OHzeelogo"><img src="images/ohzee-icon.png" alt="Company logo" title="OHzee" class="logo"/><h1 class="ohzee">OHzee</h1></a>
+					<!--/source of OHzeelogo : http://www.flaticon.com/packs/ /--> 
+					<ul class="nav-bar">
+						<li><a href="howItWorks.html">How it works</a></li>
+						<li><a href="signUp.html">Sign Up</a></li>
+						<li><a href="cities.html">Cities</a></li>
+						<li><a href="about.html" >About</a></li>
+						<li><a href="#">Login</a></li>
+					</ul>
+				</nav>
+			</header>
+			<!---/////////////////////////////////////////  BANNER IMAGE ///////////////////////////////////////////////////////-->
+			<section class="sign-up-hero-box">
+				<div ><h2 class="hero-title">Sign Up</h2></div>
+				<!--/Source of Image: https://www.pexels.com/search/food   /-->
+				
+			</section>
+			
+			<!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+			<!--/////////////////////////////////////   Sign Up for Users     //////////////////////////////////////////////////////-->
+			<!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+			<div class="sign-up-box">
+				<h2>Sign Up to start using OHzee</h2>
+				<form id="signUpForm" method="POST" action="mailto:cemeh@student.cscc.edu?subject=Sign%20Up%20for%20OHzee%20Form" enctype="text/plain">
+					<img id="signUpIcon" src="images/pencil2.png" alt="Sign Up" title="Sign up for OHzee"/>
+					<!--/Source of Image: https://www.iconfinder.com   /-->
+					<p><b>First Name*:  </b>
+							<input type="text" name="Firstname" maxlength="30" size="24" placeholder="Enter your first name" required="required"/>
+					</p>
+					<p class="inputBlocks"><b>Last Name *:</b>
+							<input id="boxAnswer2" type="text" name="Lastname" maxlength="30" size="24" placeholder="Enter your Last name" required="required"/>
+					</p>
+					<p class="inputBlocks"><b>Email Address  *:</b>
+							<input id="boxAnswer3" type="email" name="emailaddress" maxlength="30" size="20" placeholder="firstLast@example.com" required="required"/>
+					</p>
+						<b>Account Type: </b><fieldset class="fieldset1">
+							<input type="radio" name="Typeofohzeeaccount" value="U" checked="checked"/>User
+							<input type="radio" name="Typeofohzeeaccount" value="D"/>Driver
+							<input type="radio" name="Typeofohzeeaccount" value="O"/>Not sure
+						</fieldset>
+						
+
+				
+						<fieldset class="fieldset2">
+							<input type="checkbox" name="options" value="food"/>Food
+							<input type="checkbox" name="options" value="Drinks"/>Drinks
+							<input type="checkbox" name="options" value="Grocery"/>Grocery
+							<input type="checkbox" name="options" value="Pharmacy"/>Pharmacy
+						</fieldset>
+					
+					
+						<p style="margin-left: 15px">Please tell us about allergies and medical concerns</p>
+						<textarea style="margin-left: 15px" name="comments" maxlength="300" cols="28" rows="4">Please add allergies or other medical conditions.</textarea>
+					
+					<p>
+						<input type="submit" value="Submit"/>
+						<input type="reset" value="Cancel"/>
+					</p>
+					<p id="required">*=Required
+					</p>
+				</form>
+			</div>
+		
+			
+			
+							<!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+			<!--/////////////////////////////////////         FOOTER        //////////////////////////////////////////////////////-->
+			<!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+			<footer>
+			<p class="footer-nav"><a href="mailto:cemeh@student.cscc.edu">Contact Us</a></p>	
+			</footer>	
+
+		</div>
+	</body>
+</html>

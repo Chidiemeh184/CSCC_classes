@@ -1,0 +1,18 @@
+// Drew three color stripes
+var image = new SimpleImage("hilton.jpg");
+for (var p of image.values()) {
+    
+    if (p.getX() <= image.getWidth()/3){
+        p.setRed(255);
+    }
+    
+    else if (p.getX() >= image.getWidth() * 2/3){
+        p.setBlue(255);
+    }
+    
+    else {
+        p.setGreen(255);
+    }
+
+}
+print(image);

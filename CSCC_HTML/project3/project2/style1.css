@@ -1,0 +1,124 @@
+
+body{
+	margin: 0px 100px 0px 100px;
+	background: white;
+	font-family: ProximaNova, "Helvetica Neue", Verdan, Arial, sans-serif;
+	width: 1020px;
+	text-align: center;
+	color:#696969;
+	font-size: 17px;
+}
+
+
+header {
+	background: #A9A9A9;
+	padding: 30px 0 0 0;
+	height: 100px;
+}
+
+.logo {
+	display: block;
+	margin: 0.01px 5px 10px 0px;
+	float: left;
+}
+/*/////////////////////////////////////////////////////////   NAVIGATION   ///////////////////////////////////////////////////////////*/
+.nav-bar{
+	float: right;
+	list-style: none;
+	margin: 40px 15px;
+}
+
+.nav-bar li{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.nav-bar li a {
+	text-decoration: none;
+	color: #191919;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-family: "Helvetica Neue", Verdan, Arial, sans-serif;
+}
+
+.footer-nav-bar  li{
+	display: inline-block;
+	margin-left: 20px;
+	text-decoration: none;
+	color: #191919;
+	font-size: 14px;
+	text-align: center;
+}
+
+
+#content{
+	background: #FFFFFF;
+}
+#main-wrapper{
+	max-width: 1020px;
+	width: 1020px;
+	background: white;
+	border: 1px solid #DCDCDC;
+}
+
+footer{
+	background: #696969;
+	height: 200px;
+	text-align: center;
+	width: 1020px;
+}
+
+
+
+.hero-box{
+	height: 450px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("http://i.imgur.com/71EUFvE.jpg?2");
+}
+
+
+.hero-title{
+	margin: 0;
+	color: #ECECEC;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+	font-size: 45px;
+	text-shadow: #331F04 1px 1px 2px;
+}
+.ohzee{
+	text-decoration: none;
+	color: #191919;
+	font-size: 35px;
+	font-family: "Helvetica Neue", Verdan, Arial, sans-serif;
+	float: left;
+	margin-right: 10px;
+}
+
+
+.flat-ui{
+
+}
+
+.columns{
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin: 5px 5px;
+	text-align: center;
+	font-size: 15px;
+}
+/*///////////////////////////////////////////////////    TABLES AND COLUMNS    /////////////////////////////////////////////*/
+.summary{
+	height: 400px;
+}
+.table-summary{
+	width: 1020px;
+	height:300px;
+	text-align: center;
+	/*background: #FFE4E1;*/
+}
+/*table, th, td {
+    border: 1px solid black;
+}*/
+

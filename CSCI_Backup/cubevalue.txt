@@ -1,0 +1,7 @@
+start
+	output "Please enter a number"
+	input number 
+	set cubed = number * number * number
+	output "The cube value of " & number & " is " &
+		cubed
+stop

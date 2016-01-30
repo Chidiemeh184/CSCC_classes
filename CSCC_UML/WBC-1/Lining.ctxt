@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lining
+comment0.text=\r\n\ The\ Lining\ are\ objects\ at\ the\ edge\ of\ the\ vein.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -This\ makes\ the\ lining\ objects\ disappear\ as\ they\ move\ to\ the\ left.\r\n
+numComments=2

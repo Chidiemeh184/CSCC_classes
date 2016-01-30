@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Bloodstream
+comment0.text=\r\n\ The\ bloodstream\ is\ the\ setting\ for\ our\ White\ Blood\ Cell\ scenario.\ \r\n\ It's\ a\ place\ where\ blood\ cells,\ bacteria\ and\ viruses\ float\ around.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=Bloodstream()
+comment1.text=\r\n\ Constructor\:\ Set\ up\ the\ staring\ objects.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Create\ new\ floating\ objects\ at\ irregular\ intervals.\r\n
+comment3.params=
+comment3.target=void\ countTime()
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ In\ this\ case\:\ Create\r\n\ a\ white\ blood\ cell\ and\ the\ lining\ at\ the\ edge\ of\ the\ blood\ stream.\r\n
+comment5.params=points
+comment5.target=void\ addScore(int)
+comment6.params=
+comment6.target=void\ showScore()
+comment7.params=
+comment7.target=void\ showTime()
+comment8.params=
+comment8.target=void\ showEndMessage()
+numComments=9

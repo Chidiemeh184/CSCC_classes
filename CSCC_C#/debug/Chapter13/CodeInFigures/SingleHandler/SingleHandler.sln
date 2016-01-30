@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleHandler", "SingleHandler\SingleHandler.csproj", "{7570176F-AF6F-411E-8BC7-17A8B6A5ED14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7570176F-AF6F-411E-8BC7-17A8B6A5ED14}.Debug|x86.ActiveCfg = Debug|x86
+		{7570176F-AF6F-411E-8BC7-17A8B6A5ED14}.Debug|x86.Build.0 = Debug|x86
+		{7570176F-AF6F-411E-8BC7-17A8B6A5ED14}.Release|x86.ActiveCfg = Release|x86
+		{7570176F-AF6F-411E-8BC7-17A8B6A5ED14}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

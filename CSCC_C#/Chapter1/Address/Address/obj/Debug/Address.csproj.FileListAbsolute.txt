@@ -1,0 +1,12 @@
+c:\users\cemeh\documents\visual studio 2013\Projects\Address\Address\bin\Debug\Address.exe.config
+c:\Users\cemeh\Documents\Visual Studio 2013\Projects\Address\Address\obj\Debug\Address.csprojResolveAssemblyReference.cache
+c:\Users\cemeh\Documents\Visual Studio 2013\Projects\Address\Address\bin\Debug\Address.exe
+c:\Users\cemeh\Documents\Visual Studio 2013\Projects\Address\Address\bin\Debug\Address.pdb
+c:\Users\cemeh\Documents\Visual Studio 2013\Projects\Address\Address\obj\Debug\Address.exe
+c:\Users\cemeh\Documents\Visual Studio 2013\Projects\Address\Address\obj\Debug\Address.pdb
+S:\CSCC_C#\Chapter1\Address\Address\bin\Debug\Address.exe.config
+S:\CSCC_C#\Chapter1\Address\Address\obj\Debug\Address.exe
+S:\CSCC_C#\Chapter1\Address\Address\obj\Debug\Address.pdb
+S:\CSCC_C#\Chapter1\Address\Address\bin\Debug\Address.exe
+S:\CSCC_C#\Chapter1\Address\Address\bin\Debug\Address.pdb
+S:\CSCC_C#\Chapter1\Address\Address\obj\Debug\Address.csprojResolveAssemblyReference.cache

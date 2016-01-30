@@ -1,0 +1,9 @@
+C:\C#\Chapter.13\FocusDemo\FocusDemo\bin\Debug\FocusDemo.exe
+C:\C#\Chapter.13\FocusDemo\FocusDemo\bin\Debug\FocusDemo.pdb
+C:\C#\Chapter.13\FocusDemo\FocusDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\FocusDemo\FocusDemo\obj\x86\Debug\FocusDemo.Form1.resources
+C:\C#\Chapter.13\FocusDemo\FocusDemo\obj\x86\Debug\FocusDemo.Properties.Resources.resources
+C:\C#\Chapter.13\FocusDemo\FocusDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.13\FocusDemo\FocusDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.13\FocusDemo\FocusDemo\obj\x86\Debug\FocusDemo.exe
+C:\C#\Chapter.13\FocusDemo\FocusDemo\obj\x86\Debug\FocusDemo.pdb

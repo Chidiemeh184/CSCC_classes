@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Using a Variable, Part II</title>
+<link href="_css/site.css" rel="stylesheet">
+
+<style>
+.future{ 
+	color: 505050;
+	font-size: 21px;
+	font-family:'Helvetica Neue'; 
+	}
+</style>
+
+</head>
+
+<body>
+  <header>
+    JAVASCRIPT <span class="amp">&amp;</span> jQUERY: THE&nbsp;MISSING&nbsp;MANUAL
+  </header>
+  <div class="content">
+    <div class="main">
+	<br /><br /><br />
+      <h1>Using a Variable, Part II</h1>
+	  <div>
+		<img class="bottle">
+	  </div>
+	  <div>
+		<p class="future"></p>
+	  </div>
+      <script>
+			var currentYear = 2016;
+			var userBirthYear = prompt('Please Enter your birth year: ', '');
+			var userAge = currentYear - userBirthYear;
+			
+			if (userBirthYear <= 1894){
+				alert("You are " + userAge + " years old!!!");
+				alert("You are the oldest person alive!!!");
+				alert("Here's a bottle for you!!!");
+				document.write('<img class = "bottle" src ="img/champagne.png">');
+				
+			} else if (userBirthYear > 2016) {
+				//alert("Are you from the future");
+				document.write('<p class ="future"><strong>Are you from the future!!</strong></p>');
+				document.write('<img class = "bottle" src ="img/future.jpg">');
+			} else {
+				alert("You are " + userAge + " years old.");
+			}
+			
+      </script>
+    </div>
+  </div>
+  <footer>
+    <p>JavaScript &amp; jQuery: The Missing Manual, 3rd Edition, by <a href="http://sawmac.com/">David McFarland</a>. Published by <a href="http://oreilly.com/">O'Reilly Media, Inc</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

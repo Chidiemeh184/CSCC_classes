@@ -1,0 +1,9 @@
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\obj\x86\Debug\MovieDiscountGUI.Form1.resources
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\obj\x86\Debug\MovieDiscountGUI.Properties.Resources.resources
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\bin\Debug\MovieDiscountGUI.exe
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\bin\Debug\MovieDiscountGUI.pdb
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\obj\x86\Debug\MovieDiscountGUI.exe
+C:\C#\Chapter.03\MovieDiscountGUI\MovieDiscountGUI\obj\x86\Debug\MovieDiscountGUI.pdb

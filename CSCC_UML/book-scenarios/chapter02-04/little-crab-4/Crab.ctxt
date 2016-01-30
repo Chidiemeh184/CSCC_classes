@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\ \r\n\ Act\ -\ do\ whatever\ the\ crab\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ \ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ checkKeypress()
+comment1.text=\r\n\ Check\ whether\ a\ control\ key\ on\ the\ keyboard\ has\ been\ pressed.\r\n\ If\ it\ has,\ react\ accordingly.\r\n
+comment2.params=
+comment2.target=void\ lookForWorm()
+comment2.text=\r\n\ Check\ whether\ we\ have\ stumbled\ upon\ a\ worm.\r\n\ If\ we\ have,\ eat\ it.\ If\ not,\ do\ nothing.\r\n
+numComments=3

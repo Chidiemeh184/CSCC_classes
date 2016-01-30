@@ -1,0 +1,2 @@
+S:\CSCC_C#\Patrick\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+S:\CSCC_C#\Patrick\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csprojResolveAssemblyReference.cache

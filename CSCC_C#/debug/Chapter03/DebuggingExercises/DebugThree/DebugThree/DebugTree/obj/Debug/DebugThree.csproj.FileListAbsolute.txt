@@ -1,0 +1,26 @@
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\bin\Debug\DebugThree.exe
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\bin\Debug\DebugThree.pdb
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\ResolveAssemblyReference.cache
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.Form1.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.Properties.Resources.resources
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\ResGen.read.1.tlog
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\ResGen.write.1.tlog
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.exe
+E:\Old PC BackUp\CIT 279 (C# II)\Labs\Lab3\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.pdb
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.exe
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\ResolveAssemblyReference.cache
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.Form1.resources
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.Properties.Resources.resources
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\ResGen.read.1.tlog
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\ResGen.write.1.tlog
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\bin\Debug\DebugThree.exe
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\bin\Debug\DebugThree.pdb
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.pdb
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\debug\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.exe
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\debug\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.pdb
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\debug\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.csprojResolveAssemblyReference.cache
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\debug\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.Form1.resources
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\debug\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.Properties.Resources.resources
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\debug\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\obj\Debug\DebugThree.csproj.GenerateResource.Cache
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\debug\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\bin\Debug\DebugThree.exe
+C:\Users\Chidi\Documents\DELL\COLUMBUS_STATE\CSCC_C#\debug\Chapter03\DebuggingExercises\DebugThree\DebugThree\DebugTree\bin\Debug\DebugThree.pdb

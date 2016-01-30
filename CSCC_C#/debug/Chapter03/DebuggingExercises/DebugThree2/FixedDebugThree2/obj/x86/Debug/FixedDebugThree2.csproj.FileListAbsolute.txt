@@ -1,0 +1,20 @@
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\bin\Debug\FixedDebugThree2.exe
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\bin\Debug\FixedDebugThree2.pdb
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.Form1.resources
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.Properties.Resources.resources
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.exe
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.pdb
+C:\C#\Chapter.03\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.exe
+C:\C#\Chapter.03\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.pdb
+C:\C# 2011\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.exe
+C:\C# 2011\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.pdb
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.exe
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.pdb
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.Form1.resources
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.Properties.Resources.resources
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Old PC BackUp\C# 2010 Book Materials\StudentsBookDownload\Chapter03\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,30 @@
+// Three color square part II
+var image = new SimpleImage(200, 200);
+for (var pixel of image.values()) {
+    pixel.setRed(255);
+    pixel.setBlue(255);
+    pixel.setGreen(255);	 
+    
+    
+    if(pixel.getY() >= 2/3 * 200){
+        pixel.setRed(0);
+        pixel.setBlue(255);
+        pixel.setGreen(0);
+    }
+    
+    if (pixel.getY() < 2/3 * 200) {
+        pixel.setRed(255);
+        pixel.setBlue(0);
+        pixel.setGreen(0);
+    }
+    
+    if (pixel.getY() >= 1/3 * 200 && pixel.getY() <= 2/3 * 200 && pixel.getX() > 1/3 * 200) {
+        pixel.setRed(0);
+        pixel.setBlue(0);
+        pixel.setGreen(255);
+    }
+
+}
+
+print(image);
+

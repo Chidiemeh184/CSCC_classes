@@ -1,0 +1,9 @@
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\bin\Debug\ManyHellosGUI.exe
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\bin\Debug\ManyHellosGUI.pdb
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\obj\x86\Debug\ManyHellosGUI.Form1.resources
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\obj\x86\Debug\ManyHellosGUI.Properties.Resources.resources
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\obj\x86\Debug\ManyHellosGUI.exe
+C:\C#\Chapter.03\ManyHellosGUI\ManyHellosGUI\obj\x86\Debug\ManyHellosGUI.pdb

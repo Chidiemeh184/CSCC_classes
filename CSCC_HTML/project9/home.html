@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" type ="text/css" href="css/style2.css">
+		<meta charset="utf-8"/>
+		<title>OHzee Home</title>
+		
+		<meta name="description" content="OHzee, a premier websites that lets you order food, drinks from restuarants and stores close to you. You can choose from a list of couriers in your location so that your delivery arrives in no time.">
+		<script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.js" type="text/javascript"></script> 
+		<script src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.js" type="text/javascript"></script>
+	
+	</head>
+	
+	
+	<body>
+		<div id="main-wrapper">
+			<!--////////////////////////////////////////// COMPANY LOGO AND NAVIGATION BAR ///////////////////////////////////////-->
+			<header>
+				<nav><!--/Logo icon downloaded and saved from my computer/-->
+					<a href="home.html" title="OHzeelogo"><img src="images/ohzee-icon.png" alt="Company logo" title="OHzee Home"  class="logo"/><h1 class="ohzee">OHzee</h1></a>
+					<!--/source of OHzeelogo : http://www.flaticon.com/packs/ /--> 
+					<ul class="nav-bar">
+						<li><a href="howItWorks.html" >How it works</a></li>
+						<li><a onclick="changeColor()" href="signUp.html" >Sign Up</a></li>
+						<li><a href="cities.html">Cities</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="#">Login</a></li>
+					</ul>
+				</nav>
+			</header>
+	
+			<!--/ Creates an alert box upon clicking Sign Up/-->
+			<script>
+				function changeColor(){
+					alert("Welcome to the OHzee, get 70% Signing Bonus for Holiday Spending.");
+				}
+			</script>
+			
+			
+			
+			<!--/ Changes the background color of the down arrow on homepage upon hovering/-->
+			<script>
+				function surprise(){
+					$("img#down-arrow").css("background-color", "orange");
+				}
+				function out(){
+					$("img#down-arrow").css("background-color", "white");
+				}
+			</script>
+	
+			
+			<!---/////////////////////////////////////////  BANNER IMAGE ///////////////////////////////////////////////////////-->
+			<section class="hero-box">
+				<div><h2 class="hero-title">From stores...to you</h2></div>
+				<!--/Source of Image: https://www.pexels.com/search/food   /-->
+				
+				<div id="street-address">
+					<input type="text" placeholder = "Enter your street address">
+					<input type="submit" value="Search"/>
+				</div>
+			</section>
+			
+			<!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+			<!--/////////////////////////////////////         Content       //////////////////////////////////////////////////////-->
+			<!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+			<section class="company-summary">
+			<h3>Shop with ease</h3>
+			<img onmouseover="surprise()" onmouseout="out()" id="down-arrow" src="images/arrow-down.png" alt="down-arrow" title="shop OHzee with ease"/>
+			<!--/Source of Image: https://www.iconfinder.com /-->
+				<p class="content-word-box" >Hello, we are OHzee, your new premium food and local store delivery service. We know how it feels when you have to wait in line for your favorite meal on a busy day, or spending the whole day at a grocery store. Well, we can take care of that.</p>
+				<div></div>
+				<p class="content-word-box" >Whether you have a busy schedule or need an extra hand in getting an errand done, OHzee lets you choose form a growing list of <a href="list.html">local stores </a>and select from a dedicated list of couriers. So even if you wanted a snack at the middle of the night, <a href="signUp.html">you know its possible.</a> </p>
+			</section>
+			
+			<!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+			<!--/////////////////////////////////////         FOOTER        //////////////////////////////////////////////////////-->
+			<!--////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+			<footer>
+			<p class="footer-nav"><a href="mailto:cemeh@student.cscc.edu">Contact Us</a><a href="sitemap.html">         Sitemap</a></p>	
+			</footer>	
+		</div>
+	</body>
+</html>

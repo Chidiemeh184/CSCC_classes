@@ -1,0 +1,37 @@
+start
+	Declarations 
+		num grossSalary
+		name = ""
+	endDeclarations
+	
+	readName()
+	while (name <> "eof")
+		calculateNetSalary()
+		readName()
+	endwhile
+
+stop
+
+calculateNetSalary()
+	Declarations
+		num deduction
+		num netSalary
+		num DEDUCTION_RATE = 0.25	
+	endDeclaration
+	
+	readGrossSalary()
+	deduction = grossSalary * DEDUCTION_RATE
+	netSalary = grossSalary - deduction
+	output name & " " & grossSalary & " " & 
+		deduction & " " & netSalary
+return
+
+readGrossSalary()
+	output "Enter the gross salary:"
+	input grossSalary 
+return	
+
+readName()
+	output "Enter the employee name: "
+	input name
+return

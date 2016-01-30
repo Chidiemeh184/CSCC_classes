@@ -1,0 +1,9 @@
+C:\C#\Chapter.13\ClickLocation\ClickLocation\bin\Debug\ClickLocation.exe
+C:\C#\Chapter.13\ClickLocation\ClickLocation\bin\Debug\ClickLocation.pdb
+C:\C#\Chapter.13\ClickLocation\ClickLocation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\ClickLocation\ClickLocation\obj\x86\Debug\ClickLocation.Form1.resources
+C:\C#\Chapter.13\ClickLocation\ClickLocation\obj\x86\Debug\ClickLocation.Properties.Resources.resources
+C:\C#\Chapter.13\ClickLocation\ClickLocation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.13\ClickLocation\ClickLocation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.13\ClickLocation\ClickLocation\obj\x86\Debug\ClickLocation.exe
+C:\C#\Chapter.13\ClickLocation\ClickLocation\obj\x86\Debug\ClickLocation.pdb

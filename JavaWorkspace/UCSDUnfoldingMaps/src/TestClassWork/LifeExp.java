@@ -1,0 +1,29 @@
+package TestClassWork;
+
+import de.fhpotsdam.unfolding.UnfoldingMap;
+import de.fhpotsdam.unfolding.providers.Google;
+import de.fhpotsdam.unfolding.utils.MapUtils;
+import processing.core.PApplet;
+
+public class LifeExp extends PApplet{
+	
+	//Declare Unfolding map variable
+	UnfoldingMap map;
+	
+	public void setup()
+	{
+		//Set up background tile
+		size(800, 600, OPENGL);
+	
+		//Create Map object and assign to map
+		map = new UnfoldingMap(this, 80, 50, 700, 500, new Google.GoogleMapProvider());
+		MapUtils.createMouseEventDispatcher(this,map);
+		
+	}
+	
+	public void draw()
+	{
+		map.draw();
+	}
+
+}

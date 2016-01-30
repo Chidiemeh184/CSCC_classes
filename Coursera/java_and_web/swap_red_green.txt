@@ -1,0 +1,26 @@
+
+var fgImage = new SimpleImage("mario_big.jpg");
+
+function swapRedGreen(pixel) {
+      
+    if (pixel.getGreen() > pixel.getRed() + pixel.getBlue()) {
+        
+        pixel.setRed(255);
+        pixel.setGreen(0);
+    }
+    
+   else if (pixel.getRed() > pixel.getGreen() + pixel.getBlue()) {
+       pixel.setGreen(255);
+       pixel.setRed(0);
+   } 
+   
+   return pixel;
+}
+
+
+for (var pixel of fgImage.values()) {
+
+    swapRedGreen(pixel);
+}
+
+print(fgImage);
