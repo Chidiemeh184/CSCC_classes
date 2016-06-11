@@ -1,0 +1,362 @@
+<!-- 
+		Name: Chidi Emeh
+		Date: 5/7/2016
+		Class: CSCI2447, Javascript Fundamentals
+		Project 7
+ -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>Whack-A-Mole (CSCI2447)</title>
+    
+    <!-- CSS styles: This is for me to worry about; not you. -->
+	<link href="css/game.css" rel="stylesheet" />
+	<link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+	</style> 
+	<script src="js/jquery-1.12.0.min.js"></script>
+	<script src="js/jquery-ui.js"></script>
+	<script>
+
+	//Declare Variables
+	var score = 1;
+	var time = 30;
+	var isGameOver = false;
+	var randomTime = generateRandom();
+	var t;   //timeout variable
+	var wheep;
+	var boing;
+	var button;
+	var clockSound;
+	var lightSaber;
+	var imgsArray = ["1", "2", "3", "4", "5", "6", "7", "8"]; //Holds the different minion gif
+	//Minion gif downloaded form the App : https://play.google.com/store/apps/details?id=com.swyftmedia.android.Minions
+	var popSoundArray = ["1", "2", "3"] //Holds different sound effects
+	var soundTrackArray = ["1", "2", "3"] //Holds the soundTracks
+
+
+	
+	
+	//DOCUMENT READY
+	$(document).ready( function() {
+		
+		//Adds SoundTrack
+		happy = document.createElement("audio");
+        happy.src="sounds/SoundTrack/"+popSoundArray[Math.floor(Math.random() * 3)]+".mp3";
+        happy.volume=0.20;
+        happy.autoPlay=false;
+        happy.preLoad=true;
+		
+		//Sound Tracks downloaded from https://mp3-juices.com/download/
+		var obj = document.createElement("audio");
+		var popSound = popSoundArray[Math.floor(Math.random() * 3)];
+        obj.src="sounds/pop/"+popSound+".mp3";
+        obj.volume=0.20;
+        obj.autoPlay=false;
+        obj.preLoad=true;   
+		
+		//Sound Effects
+		//Sound Effects downloaded from http://www.grsites.com/archive/sounds/category/
+		wheep = document.createElement("audio");
+        wheep.src="sounds/wheep.wav";
+        wheep.volume=0.21;
+        wheep.autoPlay=false;
+        wheep.preLoad=true;
+		
+		boing = document.createElement("audio");
+        boing.src="sounds/boing.wav";
+        boing.volume=0.20;
+        boing.autoPlay=false;
+        boing.preLoad=true;
+		
+		button = document.createElement("audio");
+        button.src="sounds/button.mp3";
+        button.volume=0.20;
+        button.autoPlay=false;
+        button.preLoad=true;
+		
+		clockSound = document.createElement("audio");
+        clockSound.src="sounds/tick.mp3";
+        clockSound.volume=0.20;
+        clockSound.autoPlay=false;
+        clockSound.preLoad=true;
+		
+		lightSaber = document.createElement("audio");
+        lightSaber.src="sounds/lightSaber.mp3";
+        lightSaber.volume=0.29;
+        lightSaber.autoPlay=false;
+        lightSaber.preLoad=true;
+		
+		//Displays the time
+		$("#timer").show();
+		
+		//Call functions when start button is clicked
+		$("#start_button").on("click", function(){
+			button.play();
+			start();
+			$("#gamespace").css("background-image", "../img/despicableMeLab.jpg");
+			happy.play();
+		
+		});
+		
+		//Call functions when Minions are clicked
+		$('#gamespace').on("click", "img", function() {
+			increaseScore();
+			$(this).effect("explode");
+			 obj.play();
+			//$(this).css({'display': 'none'})
+		});
+		
+		//Adds 80 seconds from time when image is clicked
+		$('#goodTime').on("click", function() {
+			time += 80
+			$(this).effect("explode");
+			 obj.play();
+		});
+		
+		//Subtracts 10 seconds from time when image is clicked
+		$('#badTime').on("click", function() {
+			time -= 10
+			$(this).effect("explode");
+			 obj.play();
+		});
+    
+		
+	});//End of Document READY
+	
+	
+	//Display starting of game info/hint
+	alert("Catch the idle minions. Collect goodies, and the RIGHT time!")
+	
+	
+	//Starts the Game
+	function start(){
+		$("#content").css("color", "#8600b3");
+		decreaseTime();
+		showRandomMinion();
+		showDiamonds();
+		moreTime();	
+	}
+
+	
+	//Adds time images to gamespace
+	// Diamonds downloaded from https://www.iconfinder.com/search/?q=diamonds
+	function moreTime(){
+		if(isGameOver == false){
+			var left = randomX();
+			var top = randomY();
+			var letter = Math.floor(Math.random() * 3) + 1;
+			
+			//Add Clock Image
+			
+			if(letter == 1){		//The Good time: Plus 80 Seconds
+				$("#gamespace").append("<img src='img/goodTime.png' onclick = 'increaseTime()' id = 'goodTime' class='mini' style = 'top: "+ top + "px; left :"+ left + "px; width : 30px; height : 30px; '/>");
+			}
+			else if(letter == 3){	//The Bad time: Minus 10 Seconds
+				$("#gamespace").append("<img src='img/smallTime.png' onclick = 'increaseSmallTime()' id = 'badTime' class='mini' style = 'top: "+ top + "px; left :"+ left + "px; width : 30px; height : 30px; '/>");
+			
+				("#smallTime").onclick(function(){
+					$("#score").html((score += 900 )+ " pts");
+				});
+			}
+			else {				//The Bad time: Minus 10 Seconds
+				$("#gamespace").append("<img src='img/badTime.png' onclick = 'increaseSmallTime()' id = 'badTime' class='mini' style = 'top: "+ top + "px; left :"+ left + "px; width : 30px; height : 30px; '/>");
+			}
+			t = setTimeout("moreTime()", 9000)
+		}
+	} // End moreTime
+	
+	
+	
+	
+	//Adds Diamonds at Random
+	function showDiamonds() {
+	
+		if(isGameOver == false){
+		
+			var timeLeft = 10;
+			var left = randomX();
+			var top = randomY();
+			var letter = Math.floor(Math.random() * 3) + 1;
+			
+			//Add greenmarble
+			if(letter == 1){
+				$("#gamespace").append("<img src='img/diamonds/1.png' onclick = 'increaseScoreTen()' id = 'green'  class='mini' style = 'top: "+ top + "px; left :"+ left + "px; width : 24px; height : 24px; '/>");
+			}
+			
+			else if(letter == 3){
+				$("#gamespace").append("<img src='img/diamonds/3.png' onclick = 'increaseScoreFifty()' id = 'green' class='mini'  style = 'top: "+ top + "px; left :"+ left + "px; width : 24px; height : 24px; '/>");
+			}
+			
+			else {
+				$("#gamespace").append("<img src='img/diamonds/2.png' onclick = 'clearAll()' id = 'green' class='mini'  style = 'top: "+ top + "px; left :"+ left + "px; width : 24px; height : 24px; '/>");
+			}
+			t = setTimeout("showDiamonds()", 7000)	
+		}
+	}// End showDiamonds
+	
+	
+	//Adds Green Diamonds
+	function addGreenDiamond(){
+		if(isGameOver == false){
+			//var num = Math.floor(Math.random() * 2000);
+			var left = randomX();
+			var top = randomY();
+			$("#gamespace").append("<img src='img/diamonds/1.png' class = 'popper' style = 'top: "+top + "px; left :"+ left + "px; width : 24px; height : 24px; '/>");
+			setTimeout("addGreenDiamond()", 1000)
+		}
+
+	}// End addGreenDiamond
+	
+	
+	
+	//Randomly adds minions to background
+	function showRandomMinion() {
+		if(isGameOver == false){
+		
+			var num = Math.floor(Math.random() * 2314) + 1;
+			var left = randomX();
+			var top = randomY();
+			var letter = imgsArray[generateRandomForArray()];
+			$("#gamespace").append("<img src='img/minion" + letter + ".gif' class = 'mini' style = 'top: "+ top + "px; left :"+ left + "px;'/>");
+			 t = setTimeout("showRandomMinion()", num);
+		}
+	}//End showRandomMinion
+	
+	
+	
+	//Time Countdown
+	function decreaseTime() {
+		
+		//Checks if The game has startes and disables the start button
+		if((time > 0 && time < 30) && isGameOver == false){
+			$("#start_button").off('click');
+		}
+		//Checks if there is 10 seconds left and sounds the countdown clock
+		if (time > 0 && time <= 10){
+			time -= 1
+			$("#timer").html(time);
+			clockSound.play();
+			t = setTimeout("decreaseTime()", 1000);
+		}
+		
+		//Otherwise just decrese the time
+		else if(time > 10){
+			time -= 1
+			$("#timer").html(time);
+			t = setTimeout("decreaseTime()", 1000);
+		}
+		
+		//If time is up, game is over
+		else{
+			isGameOver = true;
+			clearTimeout(t);
+			if(isGameOver){
+				alert("Game Over");
+			}
+			
+			$('.mini').hide();
+			$("#start_button").on("click", function(){
+				location.reload();
+				button.play();
+				start();
+				$("#gamespace").css("background-image", "../img/despicableMeLab.jpg");
+				//Images from https://www.google.com/search?q=despicable+me&espv=2&biw=1920&bih=947&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCi8uvh8jMAhVLbD4KHbu3AioQ_AUIBigB#tbm=isch&q=despicable+me+lab&imgrc=kSnNJx8g9yq1BM%3A
+				happy.play();
+			});	
+		}
+	}// End decreaseTime
+
+	//Generates Random number to select different minions
+	function generateRandomForArray() {
+		var num = Math.floor(Math.random() * 7);
+		return num;
+	}
+	
+	//Generates Random number for pop sounds
+	function popSoundRandom() {
+		var num = Math.floor(Math.random() * 3) + 1;
+		return num;
+	}
+
+	//Random Generator
+	function generateRandom() {
+		var num = Math.floor(Math.random() * 2000);
+		return num;
+	}
+
+	//Generates Random Y-Cordinates
+	function randomY() {
+		return Math.floor((Math.random() * 370) + 0);
+	}
+	
+	//Generates Random X-Cordinates
+	function randomX()  {
+		return Math.floor((Math.random() * 600) + 0);
+	}
+	
+	//Increases the score 
+	function increaseScore() {
+		if((score % 100) == 0){
+			lightSaber.play();
+			$("#score").effect("highlight");
+		}
+		$("#score").html(score++ + " pts");
+	}
+	
+	//Increase the score by Ten
+	function increaseScoreTen() {
+		$("#score").html((score += 10)+ " pts");	
+	}
+	
+	//Increase the score by Fifty
+	function increaseScoreFifty() {
+		$("#score").html((score += 15 )+ " pts");	
+	}
+	
+	//Clears All Images (when Red Diamond is clicked)
+	function clearAll() {
+		$("#score").html((score += 2)+ " pts");
+		wheep.play()
+		boing.play()
+		$(".mini").effect("explode");
+		$("#green").effect("explode");
+	}	
+	
+	
+	//Increaes time by 80 seconds
+	function increaseTime(){
+			time += 80
+			$("#timer").effect("bounce", "slow");
+			$("#timer").html(time);
+	}
+	
+	//Decreases time by 10 seconds
+	function increaseSmallTime(){
+			var inc = 10;
+			time = time - inc;
+			lightSaber.play();
+			$("#timer").effect("highlight");
+			$("#timer").html(time);
+	}
+  </script>
+  </head>
+  <body>
+	<div id="content">
+
+		<div id="controls">
+			<span id= "title">Catch the minions</span>
+			<span id="score">0 pts</span>
+			<button type="button" id="start_button">Start!</button>
+		</div>
+		<span id="score2">
+			<div id="timer">30</div>
+		</span>
+		<div id="gamespace">
+
+		</div>
+	</div>
+  </body>
+</html>
